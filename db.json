@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "firstName": "Tshering La",
+      "lastName": "Jamtsho",
+      "email": "tjamtsho@gmail.com",
+      "mobile": "17992333",
+      "salary": "22233"
+    },
+    {
+      "id": 3,
+      "firstName": "Jamyang",
+      "lastName": "Thinley",
+      "email": "jthinley@gmail.com",
+      "mobile": "17309221",
+      "salary": "32111"
+    },
+    {
+      "id": 4,
+      "firstName": "Tenzin",
+      "lastName": "Chophel",
+      "email": "tchophel@gmail.com",
+      "mobile": "17381676",
+      "salary": "29777"
+    },
+    {
+      "id": 5,
+      "firstName": "Dorji L",
+      "lastName": "Tenzing",
+      "email": "dltenzing@gmail.com",
+      "mobile": "17455311",
+      "salary": "28544"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
